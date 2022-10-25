@@ -1,4 +1,4 @@
-# markhobson/node-chrome
+# fontenele/node-chrome
 
 Docker image for Node.js automated UI tests.
 
@@ -8,7 +8,7 @@ Includes:
 * Node.js 12.x
 * Chrome (latest)
 
-Available on [Docker Hub](https://hub.docker.com/r/markhobson/node-chrome/).
+Available on [Docker Hub](https://hub.docker.com/r/fontenele/node-chrome/).
 
 ## Demo
 
